@@ -19,6 +19,11 @@ This repository contains a collection of JavaScript projects to help you learn a
 - **Description:** A simple counter application with buttons to increment, decrement, and reset the counter value.
 - **Files:** [index.html](counter/index.html), [style.css](counter/style.css), [script.js](counter/script.js)
 
+### 4. Background Image Slider
+
+- **Description:** An interactive background image slider that smoothly transitions between images. Images are fetched randomly from Unsplash using the Unsplash Source API. Users can manually navigate through slides or enjoy an automatic slide change every 3 seconds.
+- **Files:** [index.html](image-slider/index.html), [style.css](image-slider/style.css), [script.js](image-slider/script.js)
+
 
 ## How to Use
 
