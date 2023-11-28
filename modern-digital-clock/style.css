@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to bottom, #3498DB, #2C3E50); /* Gradient from #3498DB to #2C3E50 */
+  color: #ECF0F1;
+}
+
+#clock {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 1em;
+  background-color: #000000;
+  color: #ECF0F1;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #021f33;
+}
