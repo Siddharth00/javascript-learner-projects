@@ -1,6 +1,3 @@
-Certainly! Here's the updated README content with the additional instruction included:
-
-```markdown
 # JavaScript Projects Repository
 
 This repository contains a collection of JavaScript projects to help you learn and practice various concepts. Each project is designed to be a standalone application, and you can explore and modify them individually.
