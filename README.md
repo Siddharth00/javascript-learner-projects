@@ -14,11 +14,17 @@ This repository contains a collection of JavaScript projects to help you learn a
 - **Description:** A web page that fetches and displays random quotes using the Quotable API. It includes a button to get a new random quote.
 - **Files:** [index.html](random-quotes-generator/index.html), [style.css](random-quotes-generator/style.css), [script.js](random-quotes-generator/script.js)
 
+### 3. Counter App
+
+- **Description:** A simple counter application with buttons to increment, decrement, and reset the counter value.
+- **Files:** [index.html](counter/index.html), [style.css](counter/style.css), [script.js](counter/script.js)
+
+
 ## How to Use
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/javascript-projects.git
+   git clone https://github.com/Siddharth00/javascript-learner-projects.git
    ```
 
 2. **Navigate to the project folder you're interested in:**
