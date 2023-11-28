@@ -35,10 +35,3 @@ This repository contains a collection of JavaScript projects to help you learn a
 ## Contributing
 
 If you have ideas for additional projects or improvements to existing ones, feel free to contribute! Fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-```
-
-This will guide users on how to navigate to the specific project folder they are interested in. Save this content as a `README.md` file in the root of your repository.
